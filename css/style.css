@@ -97,7 +97,7 @@ nav ul li a:hover {
 }
 .nabar_fixed {
   position: fixed;
-  background-color: red;
+  background: rgba(0, 0, 0, 0.5);
   z-index: 99999;
 }
 .hero {
@@ -281,6 +281,6 @@ nav ul li a:hover {
   }
   #toggle {
     right: 10px;
-    /* top: 1px; */
+    top: 8px;
   }
 }
